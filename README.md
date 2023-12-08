@@ -49,5 +49,3 @@ I'm an Software Developer who likes to help people using digital technologies. A
 <br/>
 
 #
-
-### Enjoy My 
