@@ -21,9 +21,7 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <br/>
 <br/>
 
-#
-
-### ⚛ My Runes
+## ⚛ My Runes
 <img align="left" alt="angularjs" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" alt="Nodejs" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 
@@ -39,9 +37,7 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <br/>
 <br/>
 
-#
-
-### 📜 My Scrolls 
+## 📜 My Scrolls 
 
 <img align="left" alt="AWS" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>
 <img align="left" alt="AWS" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
