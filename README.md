@@ -2,13 +2,15 @@
 
 **`✨The Runic Sorcerer✨`**
 
-I'm an Software Developer who likes to help people using digital technologies. All coding projects are created from scrath, from designing to development. Looking to continue grow my skill set while assisting in the development of new software solutions that will help organizations achieve their goals.
+I'm an Software Developer who likes to experiment with differents technologies and also a proactive problem solver with an analytical mind.
 <br/>
 
-#
+## 🎯 My Objetives
 
-### 🔮 My Spells
+My journey in Computer Science has led me to develop new interests in Embedded Systems, Data Science, Game Development and Cybersecurity, which then led me to continue growing my skill set to assist in the development of new software solutions that will help organizations achieve their goals.
+<br>
 
+## 🔮 My Spells
 <img align="left" alt="Python" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
