@@ -17,6 +17,16 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <img align="left" alt="C++" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C#" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="Bash" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+<img align="left" alt="PowerShell" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+
+<img align="left" alt="HTML" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />        
+<img align="left" alt="CSS3" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="SASS" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />         
+<img align="left" alt="Tailwind" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       
+<img align="left" alt="Bulma" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" />        
+          
 <br/>
 <br/>
 <br/>
@@ -24,13 +34,20 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 ## ⚛ My Runes
 <img align="left" alt="angularjs" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img align="left" alt="Nodejs" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Spring" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+          
+<img align="left" alt="Postman" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />          
 
 <img align="left" alt="mysql" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="sqlite" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
 <img align="left" alt="mongodb" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 <img align="left" alt="Docker" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="Arduino" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="Airflow" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+          
 
+<img align="left" alt="Unity" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />         
 <img align="left" alt="AWS" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 
 <br/>
