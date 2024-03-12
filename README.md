@@ -2,7 +2,7 @@
 
 **`✨The Runic Sorcerer✨`**
 
-I'm an Software Developer who likes to experiment with differents technologies and also a proactive problem solver with an analytical mind.
+I'm an Software Developer who likes to experiment with different technologies.
 <br/>
 
 ## 🎯 My Objetives
