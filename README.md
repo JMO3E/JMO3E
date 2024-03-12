@@ -9,6 +9,7 @@ I'm an Software Developer who likes to experiment with different technologies.
 
 My journey in Computer Science has led me to develop new interests in Embedded Systems, Data Science, Game Development and Cybersecurity, which then led me to continue growing my skill set to assist in the development of new software solutions that will help organizations achieve their goals.
 <br>
+<br/>
 
 ## 🔮 My Spells
 <img align="left" alt="Python" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -27,6 +28,7 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <img align="left" alt="Tailwind" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       
 <img align="left" alt="Bulma" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" />        
           
+<br/>
 <br/>
 <br/>
 <br/>
@@ -55,11 +57,11 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## 📜 My Scrolls 
 
 <img align="left" alt="AWS" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>
-<img align="left" alt="AWS" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png"/>
 <img align="left" alt="Google" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"/>
 <img align="left" alt="Unity" width="100px" style="padding-rigth:60px;" src="https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png"/>
 
