@@ -2,7 +2,7 @@
 
 **`✨The Runic Sorcerer✨`**
 
-I'm an Software Developer who likes to experiment with different technologies.
+I'm a Data Enthusiast.
 <br/>
 
 ## 🎯 My Objetives
