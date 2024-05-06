@@ -7,7 +7,7 @@ I'm a Data Enthusiast.
 
 ## 🎯 My Objetives
 
-My journey in Computer Science has led me to develop new interests in Embedded Systems, Data Science, Game Development and Cybersecurity, which then led me to continue growing my skill set to assist in the development of new software solutions that will help organizations achieve their goals.
+My journey in Computer Science has led me to develop new interests in Embedded Systems, Data Science and Game Development, which then led me to continue growing my skill set to assist organizations achieve it's goals.
 <br>
 <br/>
 
