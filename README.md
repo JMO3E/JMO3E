@@ -2,7 +2,7 @@
 
 **`✨The Runic Sorcerer✨`**
 
-I'm a Data Enthusiast.
+I'm a Developer.
 <br/>
 
 ## 🎯 My Objetives
