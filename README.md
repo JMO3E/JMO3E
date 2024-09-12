@@ -2,7 +2,7 @@
 
 **`✨The Runic Sorcerer✨`**
 
-I'm a Developer.
+I'm a developer with a solid foundation in programming and experience throughout the Software Development Life Cycle (SDLC). My journey as developer has led me to build software applications, video games, data pipelines and even to work in the cloud like Amazon Web Services (AWS). As a problem-solving and detail-oriented individual, I'm always looking to improve systems to ensure the organization's operations are executed efficiently. Quick learner, adaptable, and committed to expanding my skills and knowledge to bring the best solutions for futures applications and professional growth.
 <br/>
 
 ## 🎯 My Objetives
@@ -18,9 +18,6 @@ My journey in Computer Science has led me to develop new interests in Embedded S
 <img align="left" alt="C++" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="C#" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" alt="Bash" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-<img align="left" alt="PowerShell" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 
 <img align="left" alt="HTML" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />        
 <img align="left" alt="CSS3" width="50px" style="padding-rigth:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
